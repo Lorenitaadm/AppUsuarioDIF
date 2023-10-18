@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_sexo">
+        <item>Femenino</item>
+        <item>Masculino</item>
+    </string-array>
+    <string-array name="opciones_condicion">
+        <item></item>
+        <item>No aplica</item>
+        <item>Indígena</item>
+        <item>Embarazada</item>
+        <item>Hipertensión</item>
+        <item>Diabetes</item>
+        <item>Obesidad</item>
+
+    </string-array>
+</resources>

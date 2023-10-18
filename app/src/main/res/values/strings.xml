@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppUsuarioDIF</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Mapa</string>
+    <string name="title_notifications">Calificar</string>
+    <string name="google_maps_api_key">AIzaSyB55zZLDGn6z30amRPBcQRy1yuvm6eaqxE</string>
+</resources>
